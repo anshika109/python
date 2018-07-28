@@ -1,0 +1,13 @@
+import math
+print(cmp(2,5))
+print(math.sqrt(25))
+print(math.ceil(2))
+print(math.exp(2))
+print(cmp(2,2))
+print(math.fabs(-2))
+print(pow(2,3))
+print(math.log(2))
+print(math.log10(1))
+print(min(1,2,3))
+print(round(0.6))
+print(abs(-2))
